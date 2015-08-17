@@ -6,7 +6,7 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/wildfly-9.0.1/jboss-client.jar"/>
-	<classpathentry kind="lib" path="lib/wildfly-9.0.1/picketbox-4.9.2.Final.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-client-wf-9.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/picketbox-4.9.2.Final.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
